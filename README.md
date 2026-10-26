@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Dinindu Subasinghe
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dinindu%20Subasinghe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=55&descSize=16" width="100%" alt="Dinindu Subasinghe profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dinindu%20Subasinghe&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Dinindu Subasinghe profile banner" />
 </p>
 
-<p align="center">
-  <strong>BICT (Hons) Undergraduate at University of Kelaniya</strong>
-</p>
-# 👋 Hi, I'm Dinindu Subasinghe
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dinindu%20Subasinghe&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Dinindu Subasinghe banner"/>
-</p>
+<h3 align="center">BICT (Hons) Undergraduate at University of Kelaniya</h3>
 
 <p align="center">
   <strong>Cloud & DevOps | Cybersecurity | Computer Networking</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinindu-subasinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DiNindu1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -100,12 +101,12 @@ I believe the best way to learn technology is through practical experience. I co
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiNindu1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiNindu1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiNindu1&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiNindu1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiNindu1&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=DiNindu1&theme=github-dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
