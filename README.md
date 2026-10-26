@@ -1,77 +1,100 @@
 # Hi, I'm Dinindu Subasinghe 👋
 
-### BICT (Hons) Undergraduate at University of Kelaniya | Aspiring Software Engineer | Backend Development | Cloud & DevOps
+### BICT (Hons) Undergraduate at University of Kelaniya | Aspiring Cloud & DevOps Engineer | Cybersecurity & Computer Networking
 
-I'm a **Bachelor of Information and Communication Technology (Honours)** undergraduate at the **University of Kelaniya**, with a strong interest in **software engineering, backend development, system design, cloud computing, and DevOps**.
+I'm a **Bachelor of Information and Communication Technology (Honours)** undergraduate at the **University of Kelaniya**, with a strong interest in **Cloud Computing, DevOps, Cybersecurity, and Computer Networking**.
 
-I enjoy building practical software solutions and understanding how different components work together - from **programming and databases to APIs, operating systems, and cloud infrastructure**.
+I'm interested in understanding how computer systems and networks operate, how cloud infrastructure is managed, and how automation improves the deployment, scalability, and reliability of modern IT systems.
 
-I'm particularly interested in developing **scalable, reliable, and efficient software systems** and learning how they are deployed, automated, and maintained in real-world environments.
+I enjoy learning through hands-on experimentation, troubleshooting, and practical projects. My goal is to build a strong foundation in **Linux, networking, cloud technologies, infrastructure automation, and cybersecurity**, while developing the programming skills needed to manage and secure modern systems.
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technical Interests
 
-### 💻 Programming
+### 🐧 Linux & Systems
+- Linux Fundamentals
+- Command-Line Tools
+- Operating Systems
+- System Administration
+
+### 🌐 Computer Networking
+- Networking Fundamentals
+- TCP/IP and Network Protocols
+- Network Troubleshooting
+- Network Security
+
+### ☁️ Cloud & DevOps
+- Cloud Computing
+- Infrastructure Management
+- DevOps Practices
+- CI/CD and Automation
+- Containers and Virtualization
+
+### 🔐 Cybersecurity
+- Cybersecurity Fundamentals
+- System and Network Security
+- Security Monitoring
+- Infrastructure Security
+
+### 💻 Programming & Software
 - Python
 - C
 - SQL
 - JavaScript
-
-### ⚙️ Backend & Software
-- REST APIs
-- Backend Development
-- Database Systems
-- Object-Oriented Programming
-- Software Engineering
-- System Design
-
-### 🐧 Systems & DevOps
-- Linux
 - Git & GitHub
-- Networking Fundamentals
+- Backend Development and REST APIs
 
-### 📚 Currently Learning
-- Data Structures & Algorithms
-- Backend Development
-- Software Architecture
-- Linux & System Administration
-- Cloud Technologies
-- DevOps & CI/CD
-- Docker
-- Automation
 ---
 
-## 🚀 What I'm Working Towards
+## 📚 Currently Learning
 
-My current career direction is focused on:
+- Data Structures and Algorithms
+- Linux and System Administration
+- Computer Networking
+- Backend Development and APIs
+- Cloud Technologies
+- Docker and Containerization
+- DevOps and CI/CD
+- Cybersecurity Fundamentals
 
-**Software Engineering → Backend Development → Cloud → DevOps / SRE**
+---
 
-I want to develop a strong understanding of both **software systems and the infrastructure that supports them**, allowing me to build, deploy, and maintain reliable applications.
+## 🚀 Career Direction
+
+I'm exploring the intersection of **Cloud Infrastructure, DevOps, Systems Engineering, and Cybersecurity**.
+
+My current areas of interest include:
+
+- Cloud and Infrastructure Engineering
+- DevOps and Site Reliability Engineering (SRE)
+- Computer Networking and Systems Administration
+- Cybersecurity and Cloud Security
+
+I want to understand not only how systems are built, but also how they are deployed, monitored, secured, automated, and maintained reliably in real-world environments.
 
 ---
 
 ## 🧠 My Learning Approach
 
-I believe the best way to learn technology is by **building and experimenting**.
+I believe the best way to learn technology is through practical experience.
 
 > **Learn → Build → Break → Troubleshoot → Improve**
 
-Most of my learning revolves around combining documentation, practical projects, experimentation, and problem-solving rather than simply following tutorials.
+I combine technical documentation, hands-on labs, experimentation, and personal projects to strengthen my understanding of real-world systems.
 
 ---
 
 ## 🎯 Current Goals
 
-- Build strong software engineering fundamentals
-- Improve backend development skills
-- Develop practical database and API experience
-- Strengthen Linux and system-level knowledge
-- Learn cloud platforms and infrastructure
-- Explore DevOps, automation, and CI/CD
-- Build meaningful real-world projects
-- Collaborate with other developers and students
+- Strengthen Linux and operating systems knowledge
+- Develop practical networking and troubleshooting skills
+- Build and deploy backend applications
+- Learn cloud infrastructure and automation
+- Practise Docker, CI/CD, and infrastructure management
+- Explore cybersecurity and infrastructure security
+- Build practical projects and document my learning
+- Collaborate with developers and technology enthusiasts
 
 ---
 
@@ -79,17 +102,17 @@ Most of my learning revolves around combining documentation, practical projects,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiNindu1&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiNindu1&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiNindu1&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with **developers, students, engineers, and technology enthusiasts** to learn, collaborate, and build interesting projects together.
+I'm always interested in connecting with students, developers, engineers, and technology enthusiasts to exchange knowledge, collaborate on projects, and learn together.
 
 - 💼 LinkedIn: [Dinindu Subasinghe](https://www.linkedin.com/in/dinindu-subasinghe)
 - 📧 Email: nawod.ndinindu@gmail.com
 
 ---
 
-⭐ **Learning, building, and improving one project at a time.**
+⭐ **Learning, building, troubleshooting, and improving one project at a time.**
