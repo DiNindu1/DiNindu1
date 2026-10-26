@@ -7,14 +7,14 @@
 <p align="center">
   <strong>BICT (Hons) Undergraduate at University of Kelaniya</strong>
 </p>
+# 👋 Hi, I'm Dinindu Subasinghe
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinindu-subasinghe">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/DiNindu1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dinindu%20Subasinghe&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Dinindu Subasinghe banner"/>
+</p>
+
+<p align="center">
+  <strong>Cloud & DevOps | Cybersecurity | Computer Networking</strong>
 </p>
 
 ---
