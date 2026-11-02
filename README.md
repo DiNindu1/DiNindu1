@@ -1,12 +1,13 @@
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dinindu%20Subasinghe&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Dinindu Subasinghe profile banner" />
 </p>
 
-<h3 align="center">BICT (Hons) Undergraduate at University of Kelaniya</h3>
+<h3 align="center">BICT (Hons) Undergraduate | University of Kelaniya</h3>
 
 <p align="center">
-  <strong>Cloud & DevOps | Cybersecurity | Computer Networking</strong>
+  <strong>Software Engineering | Cloud & DevOps | Cybersecurity</strong>
 </p>
 
 <p align="center">
@@ -22,55 +23,73 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Bachelor of Information and Communication Technology (Honours)** undergraduate at the **University of Kelaniya**, with a strong interest in **Cloud Computing, DevOps, Cybersecurity, and Computer Networking**.
+I'm a **Bachelor of Information and Communication Technology (Honours)** undergraduate at the **University of Kelaniya**, following the **Software Systems pathway**.
 
-I'm interested in understanding how computer systems and networks operate, how cloud infrastructure is managed, and how automation improves the deployment, scalability, and reliability of modern IT systems.
+I have a strong interest in **Software Engineering, Backend Development, Cloud Computing, DevOps, and Cybersecurity**. I'm particularly interested in understanding how software systems are designed, developed, deployed, secured, and maintained.
 
-I enjoy learning through hands-on experimentation, troubleshooting, and practical projects. My goal is to build a strong foundation in Linux, networking, cloud technologies, infrastructure automation, and cybersecurity while developing the programming skills needed to manage and secure modern systems.
+I enjoy exploring the relationship between software and infrastructure — from writing backend applications and working with databases to understanding Linux systems, cloud environments, networking, and automation.
+
+I believe in learning through hands-on experimentation, problem-solving, and building practical projects. My goal is to develop the technical knowledge and engineering mindset needed to build reliable, scalable, and secure software systems.
 
 ---
 
 ## 🛠️ Technical Interests
 
-### 🐧 Linux & Systems
-- Linux fundamentals and command-line tools
-- Operating systems and system administration
-- System troubleshooting
+### 💻 Software Engineering & Backend Development
+- Programming fundamentals and problem-solving
+- Backend application development
+- RESTful APIs and system design
+- Database design and management
+- Software development principles
 
-### 🌐 Computer Networking
-- TCP/IP and network protocols
-- Network fundamentals and troubleshooting
-- Network and infrastructure security
-
-### ☁️ Cloud & DevOps
+### ☁️ Cloud Computing & DevOps
 - Cloud computing and infrastructure management
 - Docker and containerization
 - CI/CD and deployment automation
-- Infrastructure as Code
+- Infrastructure as Code (IaC)
+- Application deployment and monitoring
+
+### 🐧 Linux & Systems
+- Linux fundamentals and command-line tools
+- Operating systems and system administration
+- Process and file management
+- System troubleshooting
+- Shell scripting and automation
+
+### 🌐 Computer Networking
+- TCP/IP and network protocols
+- Network architecture and fundamentals
+- Network troubleshooting
+- Network infrastructure and security
 
 ### 🔐 Cybersecurity
 - Cybersecurity fundamentals
+- Application and infrastructure security
 - System and network security
-- Security monitoring and incident investigation
-- Cloud and infrastructure security
+- Security monitoring and incident response
+- Cloud security fundamentals
 
-### 💻 Programming & Software
-- Python
-- C
-- SQL
-- JavaScript
-- Git and GitHub
-- Backend development and REST APIs
+---
+
+## 💻 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,postgres,mysql,linux,bash,git,github,docker,vscode" alt="Technologies and tools" />
+</p>
+
+*Currently developing my skills across these technologies through academic learning and practical experimentation.*
 
 ---
 
 ## 📚 Currently Learning
 
 - Data Structures and Algorithms
+- Software Engineering and System Design
+- Backend Development and REST APIs
+- Database Management Systems
 - Linux and System Administration
 - Computer Networking
-- Backend Development and APIs
-- Cloud Technologies
+- Cloud Computing Fundamentals
 - Docker and Containerization
 - DevOps and CI/CD
 - Cybersecurity Fundamentals
@@ -79,12 +98,15 @@ I enjoy learning through hands-on experimentation, troubleshooting, and practica
 
 ## 🚀 Career Interests
 
-- Cloud and Infrastructure Engineering
-- DevOps and Site Reliability Engineering (SRE)
-- Computer Networking and Systems Administration
+- Software Engineering
+- Backend Development
+- Cloud Engineering
+- DevOps Engineering
+- Site Reliability Engineering (SRE)
+- Platform Engineering
 - Cybersecurity and Cloud Security
 
-I'm particularly interested in the intersection of **systems, infrastructure, automation, and security** — learning how to build, deploy, monitor, and maintain reliable systems.
+I'm particularly interested in the intersection of **software, systems, infrastructure, automation, and security** — understanding how modern applications and infrastructure work together to deliver reliable and scalable services.
 
 ---
 
@@ -94,7 +116,9 @@ I'm particularly interested in the intersection of **systems, infrastructure, au
   <strong>Learn → Build → Break → Troubleshoot → Improve</strong>
 </p>
 
-I believe the best way to learn technology is through practical experience. I combine technical documentation, hands-on labs, experimentation, and personal projects to strengthen my understanding of real-world systems.
+I believe engineering skills are developed through continuous practice. I combine technical documentation, hands-on labs, experimentation, and practical projects to understand concepts beyond theory.
+
+Rather than focusing only on learning technologies, I aim to understand how and why systems work.
 
 ---
 
@@ -113,14 +137,15 @@ I believe the best way to learn technology is through practical experience. I co
 
 ## 🎯 Current Goals
 
-- Strengthen Linux and operating systems knowledge
-- Develop practical networking and troubleshooting skills
-- Build and deploy backend applications
-- Learn cloud infrastructure and automation
-- Practise Docker, CI/CD, and infrastructure management
-- Explore cybersecurity and infrastructure security
-- Build practical projects and document my learning
-- Collaborate with developers and technology enthusiasts
+- Strengthen programming and software engineering fundamentals
+- Build backend applications and RESTful APIs
+- Improve database design and management skills
+- Develop practical Linux and networking knowledge
+- Learn cloud platforms and infrastructure management
+- Practise Docker, CI/CD, and automation
+- Explore cybersecurity and secure software development
+- Build and document practical projects
+- Collaborate with developers and contribute to open-source projects
 
 ---
 
@@ -135,5 +160,5 @@ I'm always interested in connecting with students, developers, engineers, and te
 ---
 
 <p align="center">
-  <i>Learning, building, troubleshooting, and improving one project at a time.</i>
+  <i>Building software, understanding systems, and exploring technology one project at a time.</i>
 </p>
